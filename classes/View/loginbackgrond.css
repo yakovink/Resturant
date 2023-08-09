@@ -1,0 +1,7 @@
+pane{
+    -fx-background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_TnFKgc_MQg6Xk4NRZoXBM8aE5MJH1iCMVA&usqp=CAU");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 900 506;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
